@@ -1,0 +1,1306 @@
+﻿Log file open, 04/24/19 05:27:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MapSelectTut
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292768
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.112s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: A:/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.04.24-10.27.17:683][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.04.24-10.27.17:684][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.24-10.27.17:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:685][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:693][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.24-10.27.17:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.24-10.27.17:694][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.24-10.27.17:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.24-10.27.17:704][  0]LogHAL: Display: Platform has ~ 32 GB [34305929216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.24-10.27.17:704][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.24-10.27.17:704][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.24-10.27.17:704][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Scalability.ini]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.24-10.27.17:705][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.24-10.27.17:705][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/GIT/Tutorials/MapSelectTut/Saved/Config/Windows/Engine.ini]
+[2019.04.24-10.27.17:705][  0]LogInit: Computer: DESKTOP-N53GCT6
+[2019.04.24-10.27.17:705][  0]LogInit: User: death
+[2019.04.24-10.27.17:705][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.24-10.27.17:705][  0]LogInit: High frequency timer resolution =3.906257 MHz
+[2019.04.24-10.27.17:706][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.04.24-10.27.17:706][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.24-10.27.17:706][  0]LogMemory: Process Physical Memory: 103.11 MB used, 103.11 MB peak
+[2019.04.24-10.27.17:706][  0]LogMemory: Process Virtual Memory: 89.76 MB used, 89.76 MB peak
+[2019.04.24-10.27.17:706][  0]LogMemory: Physical Memory: 10031.19 MB used,  22685.49 MB free, 32716.68 MB total
+[2019.04.24-10.27.17:706][  0]LogMemory: Virtual Memory: 4651.08 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.24-10.27.17:740][  0]LogInit: Using OS detected language (en-US).
+[2019.04.24-10.27.17:740][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.24-10.27.17:743][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.24-10.27.18:170][  0]LogStreaming: Display: Took  0.430s to InitEngineTextLocalization.
+[2019.04.24-10.27.18:170][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.24-10.27.18:239][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.24-10.27.18:240][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.24-10.27.18:887][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.24-10.27.18:887][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.24-10.27.18:973][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.04.24-10.27.18:973][  0]LogD3D11RHI:       8088/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.24-10.27.18:976][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.24-10.27.18:976][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.24-10.27.18:976][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.24-10.27.18:986][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.24-10.27.18:986][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.24-10.27.18:986][  0]LogWindows: EnumDisplayDevices:
+[2019.04.24-10.27.18:986][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.04.24-10.27.18:987][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.04.24-10.27.18:987][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.04.24-10.27.18:988][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.04.24-10.27.18:988][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.24-10.27.18:988][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.04.24-10.27.18:988][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.04.24-10.27.18:988][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.04.24-10.27.18:988][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.04.24-10.27.19:041][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.24-10.27.19:054][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.24-10.27.19:635][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.24-10.27.19:649][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.24-10.27.19:664][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.24-10.27.19:679][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.24-10.27.19:693][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.24-10.27.19:709][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.24-10.27.19:727][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.24-10.27.19:756][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.24-10.27.19:767][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:863][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.24-10.27.19:866][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.24-10.27.19:934][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.24-10.27.19:934][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.24-10.27.19:966][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.24-10.27.19:966][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.24-10.27.19:984][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.24-10.27.20:001][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.24-10.27.20:016][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.24-10.27.20:032][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.24-10.27.20:090][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.24-10.27.20:090][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.24-10.27.20:090][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.24-10.27.20:181][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../../GIT/Tutorials/MapSelectTut/Intermediate/Shaders/WorkingDirectory/7360/).
+[2019.04.24-10.27.20:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/16D6E44A41297B244D167DBA576EDCF8/'.
+[2019.04.24-10.27.20:184][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.24-10.27.20:185][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.24-10.27.20:185][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.24-10.27.20:807][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.24-10.27.20:888][  0]LogDerivedDataCache: Loaded boot cache 0.08s 72MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.24-10.27.20:889][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.24-10.27.20:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GIT/Tutorials/MapSelectTut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.24-10.27.20:889][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.24-10.27.20:889][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GIT/Tutorials/MapSelectTut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.24-10.27.20:889][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.24-10.27.20:906][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.24-10.27.20:906][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.24-10.27.20:906][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.24-10.27.20:918][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.24-10.27.20:918][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.24-10.27.20:918][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.24-10.27.20:952][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.24-10.27.20:953][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.24-10.27.20:955][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.24-10.27.21:098][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2019.04.24-10.27.21:475][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.24-10.27.21:661][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.24-10.27.21:667][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.24-10.27.21:667][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.24-10.27.21:667][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.24-10.27.21:667][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.24-10.27.21:685][  0]LogNetVersion: MapSelectTut 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3218101471)
+[2019.04.24-10.27.22:384][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.120646 seconds
+[2019.04.24-10.27.22:395][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.24-10.27.22:395][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.24-10.27.22:395][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.24-10.27.23:999][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.24-10.27.24:013][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.24-10.27.25:240][  0]SourceControl: Source control is disabled
+[2019.04.24-10.27.25:241][  0]SourceControl: Source control is disabled
+[2019.04.24-10.27.25:242][  0]SourceControl: Source control is disabled
+[2019.04.24-10.27.25:244][  0]SourceControl: Source control is disabled
+[2019.04.24-10.27.25:446][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.24-10.27.25:566][  0]LogOcInput: OculusInput pre-init called
+[2019.04.24-10.27.25:719][  0]LogEngine: Initializing Engine...
+[2019.04.24-10.27.25:720][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.24-10.27.25:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.24-10.27.25:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.24-10.27.25:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.24-10.27.25:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.24-10.27.26:004][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.24-10.27.26:026][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.24-10.27.26:138][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.24-10.27.26:174][  0]LogInit: FAudioDevice initialized.
+[2019.04.24-10.27.26:175][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.24-10.27.26:273][  0]LogDerivedDataCache: Saved boot cache 0.10s 82MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.24-10.27.26:288][  0]LogInit: Texture streaming: Enabled
+[2019.04.24-10.27.26:318][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.24-10.27.26:341][  0]LogInit: Transaction tracking system initialized
+[2019.04.24-10.27.26:377][  0]BlueprintLog: New page: Editor Load
+[2019.04.24-10.27.26:498][  0]LocalizationService: Localization service is disabled
+[2019.04.24-10.27.27:059][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.24-10.27.27:059][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.24-10.27.27:059][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.24-10.27.27:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.24-10.27.27:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.24-10.27.27:060][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/MapSelectTut/Content/' took 0.02s
+[2019.04.24-10.27.27:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.24-10.27.27:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.24-10.27.27:295][  0]SourceControl: Source control is disabled
+[2019.04.24-10.27.27:296][  0]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.27.27:296][  0]LightingResults: New page: Lighting Build
+[2019.04.24-10.27.27:300][  0]MapCheck: New page: Map Check
+[2019.04.24-10.27.27:300][  0]LightingResults: New page: Lighting Build
+[2019.04.24-10.27.27:815][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.24-10.27.27:823][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.27.27:849][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.27.27:849][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2019.04.24-10.27.27:849][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.554
+[2019.04.24-10.27.28:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.27.28:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.27.28:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.27.28:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.27.29:862][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.24-10.27.29:967][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MapSelectTut
+[2019.04.24-10.27.29:968][  0]LogTemp: CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.04.24-10.27.29:968][  0]LogTemp: Initial Dir: A:\Game Design\UE4\Epic Games\UE_4.21
+[2019.04.24-10.27.29:968][  0]LogTemp: Env CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.04.24-10.27.29:968][  0]LogTemp: BranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries
+[2019.04.24-10.27.29:968][  0]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.24-10.27.30:558][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\death\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.04.24-10.27.30:558][  0]LogCollectionManager: Loaded 0 collections in 0.003212 seconds
+[2019.04.24-10.27.30:599][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/MapSelectTut/Saved/Collections/' took 0.01s
+[2019.04.24-10.27.30:600][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/MapSelectTut/Content/Developers/death/Collections/' took 0.01s
+[2019.04.24-10.27.30:600][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/MapSelectTut/Content/Collections/' took 0.01s
+[2019.04.24-10.27.30:600][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.24-10.27.30:613][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2658 classes and 622 folders.
+[2019.04.24-10.27.30:625][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.24-10.27.30:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.24-10.27.30:810][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.24-10.27.30:827][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.04.24-10.27.30:842][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2019.04.24-10.27.30:867][  0]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.24-10.27.30:872][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.24-10.27.30:975][  0]LogRenderer: Reallocating scene render targets to support 1608x744 Format 10 NumSamples 1 (Frame:1).
+[2019.04.24-10.27.31:124][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.24-10.27.31:124][  0]LogLoad: (Engine Initialization) Total time: 17.48 seconds
+[2019.04.24-10.27.31:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.24-10.27.31:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.24-10.27.31:960][  2]LogAssetRegistry: Asset discovery search completed in 10.8831 seconds
+[2019.04.24-10.27.31:963][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.24-10.27.31:963][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2019.04.24-10.27.32:616][  4]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.24-10.27.34:617][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.27.54:387][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.27.54:388][251]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-10.27.54:559][251]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX12DAE1EED4636595D6649A7A4BFD6C214.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1.umap'
+[2019.04.24-10.27.54:571][251]LogFileHelpers: Saving map 'EX1' took 0.184
+[2019.04.24-10.27.59:124][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.27.59:126][731]LogAIModule: Creating AISystem for world EX2
+[2019.04.24-10.27.59:305][731]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2D10C4B234EF5E316B1D1E5BA4F45251E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2.umap'
+[2019.04.24-10.27.59:321][731]LogFileHelpers: Saving map 'EX2' took 0.198
+[2019.04.24-10.28.02:935][ 25]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.28.02:962][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.28.03:179][ 25]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX155EE78C44D9380186809C1A14DC6EC07.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1.umap'
+[2019.04.24-10.28.03:188][ 25]LogFileHelpers: Saving map 'EX1' took 0.226
+[2019.04.24-10.28.03:192][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX1_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1_BuiltData.uasset" SILENT=true
+[2019.04.24-10.28.03:195][ 25]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX1_BuiltData422D2FF742B5ED38EFA149A042E5897B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX1_BuiltData.uasset'
+[2019.04.24-10.28.03:203][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.28.03:437][ 25]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX24C99E7B242A11AA7F3400F8D10A516CD.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2.umap'
+[2019.04.24-10.28.03:446][ 25]LogFileHelpers: Saving map 'EX2' took 0.242
+[2019.04.24-10.28.03:449][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX2_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2_BuiltData.uasset" SILENT=true
+[2019.04.24-10.28.03:451][ 25]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2_BuiltDataF06C0272474021DA59FDA2B4349D4C90.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX2_BuiltData.uasset'
+[2019.04.24-10.28.07:531][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.28.07:532][443]LogAIModule: Creating AISystem for world EX3
+[2019.04.24-10.28.07:678][443]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3F02518464C9E200E736DDBA4DC8C184E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3.umap'
+[2019.04.24-10.28.07:687][443]LogFileHelpers: Saving map 'EX3' took 0.156
+[2019.04.24-10.28.09:472][550]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.28.09:504][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.28.09:672][550]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX36C2F45BF44E14C53047AD4A023192351.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3.umap'
+[2019.04.24-10.28.09:682][550]LogFileHelpers: Saving map 'EX3' took 0.179
+[2019.04.24-10.28.09:686][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TutorialTemplate/Maps/EX3_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3_BuiltData.uasset" SILENT=true
+[2019.04.24-10.28.09:688][550]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3_BuiltData15EBDA0A447F67AD0B5D48A6136F073E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/TutorialTemplate/Maps/EX3_BuiltData.uasset'
+[2019.04.24-10.28.17:688][465]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.24-10.28.17:698][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.24-10.28.17:698][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.24-10.28.17:698][465]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2019, 12:28:17 AM)
+[2019.04.24-10.28.17:710][465]LogPlayLevel: Creating play world package: /Game/TutorialTemplate/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.24-10.28.17:726][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016266s)
+[2019.04.24-10.28.17:727][465]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.24-10.28.17:727][465]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2019.04.24-10.28.17:727][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/TutorialTemplate/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017286s)
+[2019.04.24-10.28.17:778][465]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.24-10.28.17:796][465]LogInit: FAudioDevice initialized.
+[2019.04.24-10.28.17:842][465]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.04.24-10.28.17:844][465]LogWorld: Bringing World /Game/TutorialTemplate/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.24-05.28.17
+[2019.04.24-10.28.17:844][465]LogWorld: Bringing up level for play took: 0.000874
+[2019.04.24-10.28.17:889][465]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.24-10.28.17:892][465]PIE: Play in editor start time for /Game/TutorialTemplate/Maps/UEDPIE_0_ThirdPersonExampleMap 0.757
+[2019.04.24-10.28.17:892][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.24-10.28.20:952][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.24-10.28.20:952][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.28.20:983][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.24-10.28.20:983][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.24-10.28.21:004][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-10.28.21:070][820]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.04.24-10.28.35:198][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:444][461]LogMetaData: Removing '/Game/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/TutorialTemplate/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.04.24-10.29.02:572][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.02:617][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX384DB6C4047E1985A40EB6ABAE44FA8A8.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap'
+[2019.04.24-10.29.02:620][461]LogFileHelpers: Saving map 'EX3' took 0.049
+[2019.04.24-10.29.02:622][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX3.SKEL_EX3_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX3.PackageMetaData'
+[2019.04.24-10.29.02:622][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX3.EX3_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX3.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:LockInput.K2Node_Tunnel_1' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:LockInput.K2Node_Tunnel_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:AddMovementRight.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:AddMovementForward.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:AddYawAim.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter:AddPitchAim.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_MoveBackward_K2Node_InputAxisEvent_1' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_StrafeLeft_K2Node_InputAxisEvent_2' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_StrafeRight_K2Node_InputAxisEvent_3' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_XAim_K2Node_InputAxisEvent_4' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_YAim_K2Node_InputAxisEvent_5' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:763][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_MoveForward_K2Node_InputAxisEvent_6' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_MoveBackward_K2Node_InputAxisEvent_7' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_StrafeLeft_K2Node_InputAxisEvent_8' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_StrafeRight_K2Node_InputAxisEvent_9' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_XAim_K2Node_InputAxisEvent_10' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:InpAxisEvt_GP_YAim_K2Node_InputAxisEvent_11' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:DefaultSpeed' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:SprintSpeed' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:bLockInput' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:Health' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:CameraBoom' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:FollowCamera' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:AddMovementRight' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:AddMovementForward' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:AddYawAim' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C:AddPitchAim' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.SKEL_BP_CoreCharacter_C' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:DefaultSpeed' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:SprintSpeed' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:bLockInput' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:Health' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:CameraBoom' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:FollowCamera' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:AddMovementRight' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:AddMovementForward' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:AddYawAim' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:764][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CoreCharacter.BP_CoreCharacter_C:AddPitchAim' ref from Metadata '/Game/TutorialTemplate/Core/BP_CoreCharacter.PackageMetaData'
+[2019.04.24-10.29.02:853][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.02:917][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2A0D88ED14C7BA6EDA300B9BB7CE170D8.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap'
+[2019.04.24-10.29.02:921][461]LogFileHelpers: Saving map 'EX2' took 0.068
+[2019.04.24-10.29.02:922][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX2.SKEL_EX2_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX2.PackageMetaData'
+[2019.04.24-10.29.02:922][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX2.EX2_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX2.PackageMetaData'
+[2019.04.24-10.29.03:012][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.03:059][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX16FB64BFC4D23F0CE716CE3A9347D5A7E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap'
+[2019.04.24-10.29.03:062][461]LogFileHelpers: Saving map 'EX1' took 0.050
+[2019.04.24-10.29.03:063][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX1.SKEL_EX1_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX1.PackageMetaData'
+[2019.04.24-10.29.03:063][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/EX1.EX1_C' ref from Metadata '/Game/TutorialTemplate/Maps/EX1.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.WBP_HUD_C' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.WBP_HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.SKEL_WBP_HUD_C:PreConstruct' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.SKEL_WBP_HUD_C:Construct' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.SKEL_WBP_HUD_C:Tick' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:069][461]LogMetaData: Removing '/Game/MapSelectTut/Widgets/WBP_HUD.SKEL_WBP_HUD_C' ref from Metadata '/Game/TutorialTemplate/Widgets/WBP_HUD.PackageMetaData'
+[2019.04.24-10.29.03:073][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.BP_CorePC_C' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:073][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.BP_CorePC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:074][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.SKEL_BP_CorePC_C:ReceiveBeginPlay' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:074][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.SKEL_BP_CorePC_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:074][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.SKEL_BP_CorePC_C' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:074][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.BP_CorePC_C:ReceiveBeginPlay' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:074][461]LogMetaData: Removing '/Game/MapSelectTut/Core/BP_CorePC.BP_CorePC_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/BP_CorePC.PackageMetaData'
+[2019.04.24-10.29.03:078][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.BP_CoreGM_C' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.03:078][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.SKEL_BP_CoreGM_C:DefaultSceneRoot' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.03:078][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.SKEL_BP_CoreGM_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.03:078][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.SKEL_BP_CoreGM_C' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.03:078][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.BP_CoreGM_C:DefaultSceneRoot' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.03:264][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonExampleMap5878DE844DAD7AF71734ACBCACD19C0B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/ThirdPersonExampleMap.umap'
+[2019.04.24-10.29.03:269][461]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.052
+[2019.04.24-10.29.03:270][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.04.24-10.29.03:270][461]LogMetaData: Removing '/Game/MapSelectTut/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/TutorialTemplate/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.BP_MainMenuGM:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.BP_MainMenuGM_C' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.BP_MainMenuGM:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.BP_MainMenuGM:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:ReceiveBeginPlay' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:ReceiveTick' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:DefaultSceneRoot' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:UserConstructionScript' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:288][461]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.BP_MainMenuGM_C:DefaultSceneRoot' ref from Metadata '/Game/TutorialTemplate/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.03:313][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonExampleMap_BuiltData8F9EDB404AE5936197917898364B790B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.04.24-10.29.03:321][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1_BuiltData.uasset" SILENT=true
+[2019.04.24-10.29.03:323][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX1_BuiltDataB329E243460470EE51C3F58DC03E8679.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1_BuiltData.uasset'
+[2019.04.24-10.29.03:333][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2_BuiltData.uasset" SILENT=true
+[2019.04.24-10.29.03:336][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2_BuiltData8CF1B4994582CE61783722A25D53B9D6.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2_BuiltData.uasset'
+[2019.04.24-10.29.03:344][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3_BuiltData" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3_BuiltData.uasset" SILENT=true
+[2019.04.24-10.29.03:347][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3_BuiltData70CD902C4FD7B5147F90E9B2DD167820.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3_BuiltData.uasset'
+[2019.04.24-10.29.03:361][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/UE4_Mannequin_SkeletonBF2E8EB84D759F87A3D6638B19456315.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.04.24-10.29.03:568][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPerson_JumpB33CB7494E5774D1C7D40ABE2AAF0800.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2019.04.24-10.29.03:619][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonJump_LoopED0EB8E0466453A97728F3BD98D3EECC.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2019.04.24-10.29.03:658][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonJump_Start523F33754C69FB8F0D8CF0ABA6F0C248.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2019.04.24-10.29.03:699][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonIdleC1BB9203414AB59CB4401B85896C0211.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2019.04.24-10.29.03:743][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonRun46D52F074A54AAAC715CE5989F00B63D.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonRun.uasset'
+[2019.04.24-10.29.03:782][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonWalkBAC6F80148704C58316344A400F0561A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2019.04.24-10.29.03:834][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPerson_IdleRun_2DDA64FA774764EF9845D066A15F0DBC0B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.04.24-10.29.03:965][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPerson_AnimBPA3ACF3C8424EF3C91AF76DB7C9B906EB.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.04.24-10.29.03:979][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.04:294][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX376DDED964DFD17E85EE06F888070401F.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap'
+[2019.04.24-10.29.04:302][461]LogFileHelpers: Saving map 'EX3' took 0.324
+[2019.04.24-10.29.04:329][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/T_ML_Rubber_Blue_01_D9F98670447935C6FAEBAF0AE1A9BCE0A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2019.04.24-10.29.04:389][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/T_ML_Rubber_Blue_01_N87C3186D47D53AB212388C859B9673F0.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2019.04.24-10.29.04:411][461]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.04.24-10.29.04:463][461]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.24-10.29.04:463][461]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.24-10.29.04:463][461]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.24-10.29.04:463][461]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.24-10.29.04:506][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ML_GlossyBlack_Latex_UE40209703A47A3E1F93426E882D2D3F321.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.04.24-10.29.04:521][461]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.04.24-10.29.04:595][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ML_Plastic_Shiny_BeigeCA3AD3144CF1C22E289C88A0AB3EB7DA.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2019.04.24-10.29.04:633][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/UE4_LOGO_CARDB085E67E4D46D513E71890A2BBC3AFB1.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset'
+[2019.04.24-10.29.04:650][461]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.04.24-10.29.04:706][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ML_Plastic_Shiny_Beige_LOGODE9987AE4A8E6563AB12A4988AA25DB8.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.04.24-10.29.04:735][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/T_ML_Aluminum01C006D8AF48F7D4A9CBF4A79B222EA0F1.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2019.04.24-10.29.04:765][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/T_ML_Aluminum01_N36A131244AB75BD221AE569EB143B312.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2019.04.24-10.29.04:783][461]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.04.24-10.29.04:859][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ML_SoftMetal_UE42CBA21DB4DF2130373D634890DEAFED6.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2019.04.24-10.29.04:980][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/UE4_Mannequin__normalsB5FFC6284561314808183FAF6AED6195.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset'
+[2019.04.24-10.29.05:057][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/UE4_Mannequin_MAT_MASKA53D79531402B96D327224EBF05B680E4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2019.04.24-10.29.05:137][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/M_UE4Man_Body3ADBBE2F4F6FA5DC21E54598752177F4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2019.04.24-10.29.05:170][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/UE4Man_Logo_N16C52AC64A0D70E5A8462AB022B82CEC.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Textures/UE4Man_Logo_N.uasset'
+[2019.04.24-10.29.05:231][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/M_UE4Man_ChestLogo1E48F594473F168076F0CD9E495CE087.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2019.04.24-10.29.05:329][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/SK_Mannequin_PhysicsAssetA09CCA644BCBF8F25FBECBB3319F3017.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2019.04.24-10.29.05:451][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/SK_Mannequin4263103B451A07926385F5933747F5F3.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2019.04.24-10.29.05:498][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BP_CoreCharacter" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CoreCharacter.uasset" SILENT=true
+[2019.04.24-10.29.05:603][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CoreCharacter6D39488B42616B25D729BE820D702D66.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CoreCharacter.uasset'
+[2019.04.24-10.29.05:613][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.05:862][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2D5278EEA4A9510C5E8374DA0602218CF.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap'
+[2019.04.24-10.29.05:876][461]LogFileHelpers: Saving map 'EX2' took 0.264
+[2019.04.24-10.29.05:881][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.06:121][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX1D39460384E0334FB2457AAAB028C1865.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap'
+[2019.04.24-10.29.06:132][461]LogFileHelpers: Saving map 'EX1' took 0.251
+[2019.04.24-10.29.06:136][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_HUD" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_HUD.uasset" SILENT=true
+[2019.04.24-10.29.06:182][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_HUD676367C3411A3CE7C03888A3F44ECAD5.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_HUD.uasset'
+[2019.04.24-10.29.06:192][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BP_CorePC" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset" SILENT=true
+[2019.04.24-10.29.06:203][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CorePCEDF030D24D5D5EA767F5B8BE9133A360.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset'
+[2019.04.24-10.29.06:212][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_CoreGM" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_CoreGM.uasset" SILENT=true
+[2019.04.24-10.29.06:218][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CoreGMB783F17D4811C51EBD43DFA7A466B584.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_CoreGM.uasset'
+[2019.04.24-10.29.06:255][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/CubeMaterial" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/CubeMaterial.uasset" SILENT=true
+[2019.04.24-10.29.06:268][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/CubeMaterial567E857149570889E01EA583ED89546F.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/CubeMaterial.uasset'
+[2019.04.24-10.29.06:315][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/1M_Cube" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/1M_Cube.uasset" SILENT=true
+[2019.04.24-10.29.06:337][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/1M_Cube615BF8BC43DF89DBC2DCC08277856125.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/1M_Cube.uasset'
+[2019.04.24-10.29.06:370][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/1M_Cube_Chamfer" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2019.04.24-10.29.06:384][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/1M_Cube_Chamfer002394B441DD889068FBB988DC6197D8.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/1M_Cube_Chamfer.uasset'
+[2019.04.24-10.29.06:423][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/RampMaterial" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/RampMaterial.uasset" SILENT=true
+[2019.04.24-10.29.06:437][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/RampMaterialE2B756F0441DA1310AD3D7BC3737DF07.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/RampMaterial.uasset'
+[2019.04.24-10.29.06:467][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/Bump_StaticMesh" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/Bump_StaticMesh.uasset" SILENT=true
+[2019.04.24-10.29.06:484][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Bump_StaticMeshDB998FB64C413CAB39C2E5B4A3665E00.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/Bump_StaticMesh.uasset'
+[2019.04.24-10.29.06:539][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/LeftArm_StaticMeshC8C26E404483718B20A271AA7E4F710A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/LeftArm_StaticMesh.uasset'
+[2019.04.24-10.29.06:573][461]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.04.24-10.29.06:590][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Linear_Stair_StaticMeshF3CF856A4129360B51694795BC582E65.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/Linear_Stair_StaticMesh.uasset'
+[2019.04.24-10.29.06:622][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/Ramp_StaticMesh" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/Ramp_StaticMesh.uasset" SILENT=true
+[2019.04.24-10.29.06:638][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Ramp_StaticMesh6EA95F9B43801CE72ACB1399D79A2ED7.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/Ramp_StaticMesh.uasset'
+[2019.04.24-10.29.06:692][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/RightArm_StaticMeshC5BC57E94151B8802E88A29FB889C64C.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/RightArm_StaticMesh.uasset'
+[2019.04.24-10.29.06:724][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Assets/Meshes/TemplateFloor" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/TemplateFloor.uasset" SILENT=true
+[2019.04.24-10.29.06:742][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/TemplateFloorC880D5C64493558DD65184B0D9EDC677.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Meshes/TemplateFloor.uasset'
+[2019.04.24-10.29.06:963][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonExampleMap58B08A754578D7D6E712798C1E4C319D.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/ThirdPersonExampleMap.umap'
+[2019.04.24-10.29.06:998][461]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.247
+[2019.04.24-10.29.07:012][461]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.04.24-10.29.07:041][461]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.04.24-10.29.07:041][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonJump_EndD20793F04DEDC9F25401D2A89F6B0A8E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Assets/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2019.04.24-10.29.07:049][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/ThirdPersonGameMode" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/ThirdPersonGameMode.uasset" SILENT=true
+[2019.04.24-10.29.07:052][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonGameModeC2C1F54D4398A28DD5695987190470DE.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/ThirdPersonGameMode.uasset'
+[2019.04.24-10.29.07:060][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/ThirdPersonGameMode_C" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/ThirdPersonGameMode_C.uasset" SILENT=true
+[2019.04.24-10.29.07:062][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonGameMode_C0013B56A4F63674D08BE85924BA09238.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/ThirdPersonGameMode_C.uasset'
+[2019.04.24-10.29.07:072][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_MainMenuGM.uasset" SILENT=true
+[2019.04.24-10.29.07:079][461]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_MainMenuGM31A022E44DEAACA289CF249815C05502.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_MainMenuGM.uasset'
+[2019.04.24-10.29.07:577][461]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.04.24-10.29.08:497][461]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.24-10.29.09:150][461]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.24-10.29.09:150][461]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.24-10.29.09:833][461]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.24-10.29.10:033][461]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.24-10.29.10:675][461]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.24-10.29.12:717][462]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.BP_MainMenuGM_C' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.BP_MainMenuGM_C:DefaultSceneRoot' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:ReceiveBeginPlay' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:ReceiveTick' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:DefaultSceneRoot' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.SKEL_BP_MainMenuGM_C:UserConstructionScript' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.BP_MainMenuGM:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.BP_MainMenuGM:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:025][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.BP_MainMenuGM:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_MainMenuGM.PackageMetaData'
+[2019.04.24-10.29.26:028][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM.BP_CoreGM_C' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.26:028][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM.BP_CoreGM_C:DefaultSceneRoot' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.26:028][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM.SKEL_BP_CoreGM_C' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.26:028][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM.SKEL_BP_CoreGM_C:DefaultSceneRoot' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.26:028][986]LogMetaData: Removing '/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM.SKEL_BP_CoreGM_C:UserConstructionScript' ref from Metadata '/Game/MapSelectTut/Core/GameModes/BP_CoreGM.PackageMetaData'
+[2019.04.24-10.29.26:057][986]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_MainMenuGM16E52D034B4083E365A2548FCE2948D2.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/CoreGameModes/BP_MainMenuGM.uasset'
+[2019.04.24-10.29.26:063][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/CoreGameModes/BP_CoreGM" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/CoreGameModes/BP_CoreGM.uasset" SILENT=true
+[2019.04.24-10.29.26:069][986]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CoreGMB867ADA14B5E4A2BA5C05BB4E0E1994E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/CoreGameModes/BP_CoreGM.uasset'
+[2019.04.24-10.29.26:077][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_CoreGM" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_CoreGM.uasset" SILENT=true
+[2019.04.24-10.29.26:083][986]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CoreGM02A0E629460DD721976BDD98076B5DA6.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_CoreGM.uasset'
+[2019.04.24-10.29.28:948][144]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.29.28:970][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.29:127][144]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX1541F24C949D7D35D5DBB4FAB991F27F2.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap'
+[2019.04.24-10.29.29:137][144]LogFileHelpers: Saving map 'EX1' took 0.168
+[2019.04.24-10.29.29:140][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.29:282][144]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX2DB1410FD4CBBED840C32F6A143893F97.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap'
+[2019.04.24-10.29.29:291][144]LogFileHelpers: Saving map 'EX2' took 0.152
+[2019.04.24-10.29.29:295][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.29.29:438][144]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3DDE0C4F9437A86E73F275DB3351EEF52.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap'
+[2019.04.24-10.29.29:490][144]LogFileHelpers: Saving map 'EX3' took 0.195
+[2019.04.24-10.29.29:633][144]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/ThirdPersonExampleMap82CDBB8E483B668BEDC86D9002E2A77A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/ThirdPersonExampleMap.umap'
+[2019.04.24-10.29.29:662][144]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.168
+[2019.04.24-10.29.35:251][475]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.24-10.29.49:720][141]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_Example1E90475094CD4BDE2C77B9CA0CB997D83.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/CoreGameModes/BP_Example1.uasset'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.BP_Example1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.SKEL_BP_Example1_C:UserConstructionScript' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.SKEL_BP_Example1_C' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.BP_Example1_C' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.BP_Example1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:065][520]LogMetaData: Removing '/Game/MapSelectTut/Core/GameModes/BP_Example1.BP_Example1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MapSelectTut/Core/CoreGameModes/BP_Example1.PackageMetaData'
+[2019.04.24-10.29.53:084][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_Example1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example1.uasset" SILENT=true
+[2019.04.24-10.29.53:090][520]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_Example1B101A447455FDE0B92BB4B9A1F65EA1A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example1.uasset'
+[2019.04.24-10.30.03:670][511]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.30.03:695][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_Example2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example2.uasset" SILENT=true
+[2019.04.24-10.30.03:706][511]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_Example22A70E9874CF6C0A4DBAE4DB13FED64F4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example2.uasset'
+[2019.04.24-10.30.03:714][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/GameModes/BP_Example3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example3.uasset" SILENT=true
+[2019.04.24-10.30.03:721][511]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_Example37B6CB2984F3889CF3959FA822BA3BF88.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/GameModes/BP_Example3.uasset'
+[2019.04.24-10.30.13:469][625]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX1.EX1
+[2019.04.24-10.30.13:489][625]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.30.13:489][625]LightingResults: New page: Lighting Build
+[2019.04.24-10.30.13:491][625]LoadErrors: New page: Loading map: EX1.umap
+[2019.04.24-10.30.13:493][625]MapCheck: New page: Map Check
+[2019.04.24-10.30.13:493][625]LightingResults: New page: Lighting Build
+[2019.04.24-10.30.13:681][625]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.30.13:719][625]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.30.13:719][625]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.04.24-10.30.13:721][625]LogFileHelpers: Loading map 'EX1' took 0.232
+[2019.04.24-10.30.25:759][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.24-10.30.31:554][621]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.24-10.30.32:493][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.00:506][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.07:828][773]Cmd: SELECT NONE
+[2019.04.24-10.31.09:328][952]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.04.24-10.31.10:208][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.14:871][524]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.24-10.31.18:272][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.37:798][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.38:636][170]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.31.38:658][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.31.38:813][170]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX1DB4E53944B9B864B1F7820A26A03CFAE.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap'
+[2019.04.24-10.31.38:836][170]LogFileHelpers: Saving map 'EX1' took 0.178
+[2019.04.24-10.31.43:414][690]Cmd: EDIT COPY
+[2019.04.24-10.31.44:371][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.45:041][853]LogAIModule: Creating AISystem for world EX2
+[2019.04.24-10.31.45:065][853]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX2.EX2
+[2019.04.24-10.31.45:089][853]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.31.45:089][853]LightingResults: New page: Lighting Build
+[2019.04.24-10.31.45:090][853]LoadErrors: New page: Loading map: EX2.umap
+[2019.04.24-10.31.45:092][853]MapCheck: New page: Map Check
+[2019.04.24-10.31.45:093][853]LightingResults: New page: Lighting Build
+[2019.04.24-10.31.45:180][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.31.45:218][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.31.45:218][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2019.04.24-10.31.45:218][853]LogFileHelpers: Loading map 'EX2' took 0.132
+[2019.04.24-10.31.46:444][988]Cmd: EDIT PASTE
+[2019.04.24-10.31.48:506][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.31.51:805][577]LogAIModule: Creating AISystem for world EX3
+[2019.04.24-10.31.51:820][577]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX3.EX3
+[2019.04.24-10.31.53:158][577]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.31.53:168][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.31.53:353][577]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX21EF9FD79454AB49317BDBEB4BB4D16DC.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap'
+[2019.04.24-10.31.53:376][577]LogFileHelpers: Saving map 'EX2' took 0.208
+[2019.04.24-10.31.53:377][577]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.31.53:377][577]LightingResults: New page: Lighting Build
+[2019.04.24-10.31.53:378][577]LoadErrors: New page: Loading map: EX3.umap
+[2019.04.24-10.31.53:379][577]MapCheck: New page: Map Check
+[2019.04.24-10.31.53:379][577]LightingResults: New page: Lighting Build
+[2019.04.24-10.31.53:471][577]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.31.53:511][577]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.31.53:512][577]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2019.04.24-10.31.53:512][577]LogFileHelpers: Loading map 'EX3' took 0.136
+[2019.04.24-10.31.53:570][577]LogAIModule: Creating AISystem for world EX2
+[2019.04.24-10.31.55:505][798]Cmd: EDIT PASTE
+[2019.04.24-10.31.56:955][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.24-10.32.02:099][423]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.32.02:125][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.32.02:291][423]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3A20648A64628943379FE88BC2B14E109.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap'
+[2019.04.24-10.32.02:313][423]LogFileHelpers: Saving map 'EX3' took 0.188
+[2019.04.24-10.35.33:789][703]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.04.24-10.35.48:798][910]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/MapSelectTut/Core/Data/S_Maps.S_Maps
+[2019.04.24-10.35.52:988][343]LogSlate: Window 'S_Maps*' being destroyed
+[2019.04.24-10.36.12:663][644]LogSlate: Took 0.040291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.24-10.37.49:520][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/S_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/S_Maps.uasset" SILENT=true
+[2019.04.24-10.37.49:524][886]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/S_Maps9C9B1A084D2CD3A2B8A675AD4899357D.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/S_Maps.uasset'
+[2019.04.24-10.38.02:099][803]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-10.38.02:148][803]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX1.EX1
+[2019.04.24-10.38.02:176][803]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.38.02:176][803]LightingResults: New page: Lighting Build
+[2019.04.24-10.38.02:176][803]LoadErrors: New page: Loading map: EX1.umap
+[2019.04.24-10.38.02:179][803]MapCheck: New page: Map Check
+[2019.04.24-10.38.02:179][803]LightingResults: New page: Lighting Build
+[2019.04.24-10.38.02:327][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.38.02:369][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.38.02:369][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2019.04.24-10.38.02:369][803]LogFileHelpers: Loading map 'EX1' took 0.196
+[2019.04.24-10.38.05:071][ 99]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.24-10.38.49:564][675]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.38.49:590][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX1" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.38.49:820][675]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX10047AE64413326E2B5278E83D50B2BD5.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap'
+[2019.04.24-10.38.49:846][675]LogFileHelpers: Saving map 'EX1' took 0.257
+[2019.04.24-10.38.56:148][396]LogAIModule: Creating AISystem for world EX2
+[2019.04.24-10.38.56:164][396]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX2.EX2
+[2019.04.24-10.38.56:184][396]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.38.56:184][396]LightingResults: New page: Lighting Build
+[2019.04.24-10.38.56:185][396]LoadErrors: New page: Loading map: EX2.umap
+[2019.04.24-10.38.56:186][396]MapCheck: New page: Map Check
+[2019.04.24-10.38.56:186][396]LightingResults: New page: Lighting Build
+[2019.04.24-10.38.56:282][396]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.38.56:321][396]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.38.56:321][396]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.04.24-10.38.56:321][396]LogFileHelpers: Loading map 'EX2' took 0.138
+[2019.04.24-10.38.57:294][488]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.24-10.38.59:520][719]LogAIModule: Creating AISystem for world EX3
+[2019.04.24-10.38.59:547][719]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX3.EX3
+[2019.04.24-10.39.00:916][719]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.39.00:925][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX2" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.39.01:164][719]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX277304E6A4DD918F6C9FE939A9C1062F5.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX2.umap'
+[2019.04.24-10.39.01:185][719]LogFileHelpers: Saving map 'EX2' took 0.261
+[2019.04.24-10.39.01:186][719]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.39.01:186][719]LightingResults: New page: Lighting Build
+[2019.04.24-10.39.01:186][719]LoadErrors: New page: Loading map: EX3.umap
+[2019.04.24-10.39.01:188][719]MapCheck: New page: Map Check
+[2019.04.24-10.39.01:188][719]LightingResults: New page: Lighting Build
+[2019.04.24-10.39.01:280][719]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.39.01:331][719]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.39.01:335][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.343ms to complete.
+[2019.04.24-10.39.01:335][719]LogFileHelpers: Loading map 'EX3' took 0.150
+[2019.04.24-10.39.01:406][719]LogAIModule: Creating AISystem for world EX2
+[2019.04.24-10.39.01:891][762]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.24-10.39.04:934][996]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.39.04:963][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Maps/EX3" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.24-10.39.05:141][996]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/EX3BCEF775A424585160591B6BE0144029E.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX3.umap'
+[2019.04.24-10.39.05:166][996]LogFileHelpers: Saving map 'EX3' took 0.204
+[2019.04.24-10.39.07:354][209]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-10.39.07:368][209]LogAssetEditorManager: Opening Asset editor for World /Game/MapSelectTut/Maps/EX1.EX1
+[2019.04.24-10.39.07:391][209]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Maps/EX1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.24-10.39.07:391][209]LightingResults: New page: Lighting Build
+[2019.04.24-10.39.07:391][209]LoadErrors: New page: Loading map: EX1.umap
+[2019.04.24-10.39.07:392][209]MapCheck: New page: Map Check
+[2019.04.24-10.39.07:392][209]LightingResults: New page: Lighting Build
+[2019.04.24-10.39.07:534][209]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.24-10.39.07:572][209]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.24-10.39.07:574][209]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.828ms to complete.
+[2019.04.24-10.39.07:574][209]LogFileHelpers: Loading map 'EX1' took 0.184
+[2019.04.24-10.40.18:161][ 19]LogSlate: Window 'Pick Row Structure' being destroyed
+[2019.04.24-10.40.25:751][909]LogAssetEditorManager: Opening Asset editor for DataTable /Game/MapSelectTut/Core/Data/DB_Maps.DB_Maps
+[2019.04.24-10.40.28:235][154]LogSlate: Window 'DB_Maps*' being destroyed
+[2019.04.24-10.40.30:840][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/DB_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset" SILENT=true
+[2019.04.24-10.40.30:865][465]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/DB_Maps64BCF7C44F41FD092877258661FD64BE.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset'
+[2019.04.24-10.42.59:547][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/DB_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset" SILENT=true
+[2019.04.24-10.42.59:559][ 70]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/DB_MapsBB4BDA1446AEC7D3B19CBD8ADCBABA06.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset'
+[2019.04.24-10.43.16:516][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/DB_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset" SILENT=true
+[2019.04.24-10.43.16:523][473]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/DB_Maps1C9336264788E87061236BB3694ACF8F.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset'
+[2019.04.24-10.43.18:366][640]LogSlate: Window 'DB_Maps' being destroyed
+[2019.04.24-10.43.49:638][ 28]LogSlate: Window 'Save Content' being destroyed
+[2019.04.24-10.43.49:660][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-10.43.49:667][ 28]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect3654A8E34F7CD22BBCD623BC4BACE623.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-10.43.50:488][112]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MapSelectTut/Widgets/WBP_MapSelect.WBP_MapSelect
+[2019.04.24-10.43.50:948][112]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.04.24-10.43.52:290][112]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.24-10.43.53:888][222]LogSlate: Window 'WBP_MapSelect' being destroyed
+[2019.04.24-10.44.15:608][277]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-10.44.15:659][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-10.44.15:671][277]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect9FF5E5D74612C43C1D5B70AF4E9C7274.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-10.44.16:253][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-10.44.16:263][341]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectB3E12C9B4AF00E6537D0658FBC110BD1.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-10.45.00:406][ 44]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-10.45.00:771][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-10.45.00:786][ 44]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectD9E7E27E41370D772F573BB6191368DA.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-10.46.30:932][ 61]LogLinker: Can't find file '/Game/RPMSF/Blueprints/Kernel/Data/S_Map'
+[2019.04.24-10.46.30:932][ 61]LogLinker: Can't find file '/Game/RPMSF/Blueprints/Kernel/Data/S_Map'
+[2019.04.24-10.48.34:410][887]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MapSelectTut/Core/BPF_Helpers.BPF_Helpers
+[2019.04.24-10.49.10:442][541]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/MapSelectTut/Core/Data/E_GameMode.E_GameMode
+[2019.04.24-10.49.23:606][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/E_GameMode" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/E_GameMode.uasset" SILENT=true
+[2019.04.24-10.49.23:609][104]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/E_GameMode4FC01D0B4615FE59E54355BDFB1E70D4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/E_GameMode.uasset'
+[2019.04.24-10.49.49:888][454]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MapSelectTut/Maps/EX1' took 0.031
+[2019.04.24-10.49.49:931][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapSelectTut/Core/BPF_Helpers] ([1] browsable assets)...
+[2019.04.24-10.49.49:931][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapSelectTut/Core/BPF_Helpers]
+[2019.04.24-10.49.49:935][454]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers_Auto1E4602813452005F6BB72C6977AEFD9B2.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Autosaves/Game/MapSelectTut/Core/BPF_Helpers_Auto1.uasset'
+[2019.04.24-10.49.49:938][454]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapSelectTut/Widgets/WBP_MapSelect] ([1] browsable assets)...
+[2019.04.24-10.49.49:938][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapSelectTut/Widgets/WBP_MapSelect]
+[2019.04.24-10.49.49:960][454]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect_Auto104BF954B42FCE0583ACBC0A1131A5C3B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Autosaves/Game/MapSelectTut/Widgets/WBP_MapSelect_Auto1.uasset'
+[2019.04.24-10.49.49:962][454]LogFileHelpers: Auto-saving content packages took 0.074
+[2019.04.24-10.50.33:842][775]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-10.50.33:885][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.50.33:889][775]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers6EA7F11845827E2AC6B019BC0FFBA987.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.50.49:745][542]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-10.50.49:791][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.50.49:823][542]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers17FA627A4EA1BAD68A8E07A4EE68693A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.53.07:839][565]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-10.53.07:886][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.53.07:897][565]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_HelpersE26B1B3C434148A505DA20B3B50A7A41.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.53.22:998][366]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-10.53.23:044][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.53.23:056][366]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers9CC6C19443E8597470C03BA99EAC3B1F.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.53.23:564][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.53.23:577][423]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers2C4374494D8B2A002E32D4B0AC072DF4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.53.54:910][506]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-10.53.54:963][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-10.53.54:974][506]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers09FA45B34BA7AE5862AAAF9F033E0045.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-10.59.50:065][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MapSelectTut/Maps/EX1' took 0.026
+[2019.04.24-10.59.50:067][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapSelectTut/Widgets/WBP_MapSelect] ([1] browsable assets)...
+[2019.04.24-10.59.50:067][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapSelectTut/Widgets/WBP_MapSelect]
+[2019.04.24-10.59.50:089][151]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect_Auto24A0658EA46645C4561336EADBD4CB32B.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/Autosaves/Game/MapSelectTut/Widgets/WBP_MapSelect_Auto2.uasset'
+[2019.04.24-10.59.50:091][151]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.04.24-11.01.07:977][387]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.01.08:332][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.01.08:357][387]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectDFDB7E6B45F90B7253E360870E82F5F0.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.03.13:459][226]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.03.13:529][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.03.13:550][226]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectB03607B643BDD2A3E138FAA81982CDAC.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.03.14:132][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.03.14:363][290]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectD19A7FA74742892B066F9A99A8D42AE8.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.05.06:079][ 99]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.05.06:140][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.05.06:166][ 99]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect833DA8E742CFE5F434C6E19AADA30A9D.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.05.06:620][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.05.06:872][145]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectDD065FCC4919AF53FC3F388F24B267BD.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.05.44:173][693]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.05.44:231][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.05.44:256][693]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelectB650EB144C6F09D123AC2B902ABFB821.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.05.44:965][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.05.44:991][772]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect32183F1A49166D02B3529B9EDEB87657.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.05.57:273][174]LogAssetEditorManager: Opening Asset editor for DataTable /Game/MapSelectTut/Core/Data/DB_Maps.DB_Maps
+[2019.04.24-11.08.04:092][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/DB_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset" SILENT=true
+[2019.04.24-11.08.04:325][141]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/DB_MapsCB981DA14935E26A2E45A38F0C3D83A1.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset'
+[2019.04.24-11.08.19:106][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/Data/DB_Maps" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset" SILENT=true
+[2019.04.24-11.08.19:115][648]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/DB_MapsEF3259E1475B544DA63BDEBD9308A764.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/Data/DB_Maps.uasset'
+[2019.04.24-11.08.20:033][719]LogSlate: Window 'DB_Maps' being destroyed
+[2019.04.24-11.08.33:341][126]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MapSelectTut/Core/BP_CorePC.BP_CorePC
+[2019.04.24-11.08.37:492][477]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.24-11.09.19:780][369]BlueprintLog: New page: Compile BP_CorePC
+[2019.04.24-11.09.19:987][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BP_CorePC" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset" SILENT=true
+[2019.04.24-11.09.20:003][369]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CorePCDCE335174CCB90B2F76A898294AFDF49.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset'
+[2019.04.24-11.09.20:984][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BP_CorePC" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset" SILENT=true
+[2019.04.24-11.09.21:001][451]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BP_CorePCA8DC85514436152012F3969F73706EA4.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BP_CorePC.uasset'
+[2019.04.24-11.09.21:637][517]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.24-11.09.21:658][517]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.09.21:659][517]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.24-11.09.21:660][517]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2019.04.24-11.09.21:688][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 28 ms (1 blueprints)
+[2019.04.24-11.09.21:688][517]PIE: New page: PIE session: EX1 (Apr 24, 2019, 1:09:21 AM)
+[2019.04.24-11.09.21:688][517]LogPlayLevel: Creating play world package: /Game/MapSelectTut/Maps/UEDPIE_0_EX1
+[2019.04.24-11.09.21:713][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024565s)
+[2019.04.24-11.09.21:713][517]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-11.09.21:713][517]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.04.24-11.09.21:713][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapSelectTut/Maps/EX1.EX1 to /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 (0.025443s)
+[2019.04.24-11.09.21:772][517]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.24-11.09.21:794][517]LogInit: FAudioDevice initialized.
+[2019.04.24-11.09.21:802][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-11.09.21:835][517]LogLoad: Game class is 'BP_Example1_C'
+[2019.04.24-11.09.21:837][517]LogWorld: Bringing World /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 up for play (max tick rate 0) at 2019.04.24-06.09.21
+[2019.04.24-11.09.21:837][517]LogWorld: Bringing up level for play took: 0.001580
+[2019.04.24-11.09.21:905][517]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.24-11.09.21:908][517]PIE: Play in editor start time for /Game/MapSelectTut/Maps/UEDPIE_0_EX1 0.773
+[2019.04.24-11.09.21:932][517]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.09.21:956][517]LogRenderer: Reallocating scene render targets to support 1608x756 Format 10 NumSamples 1 (Frame:1).
+[2019.04.24-11.09.23:579][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.24-11.09.28:550][283]LogSlate: Window 'MapSelectTut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.24-11.09.28:559][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.09.28:593][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.24-11.09.28:594][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.09.28:653][284]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.24-11.10.15:397][113]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.10.15:805][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.10.15:837][113]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect51F5B09E4683DADB439F06B15EC3B06A.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.10.16:487][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.10.16:514][168]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect5798277C464AFC30891A899040A38BB2.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.10.22:942][854]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.10.23:011][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.10.23:035][854]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect9423F9FE4825071FEEDBDCBF09F3A8E3.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.10.23:449][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.10.23:475][896]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect663EFB1E436157E688D81B90801ED710.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.10.23:998][952]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.24-11.10.24:022][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.10.24:023][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.24-11.10.24:023][952]PIE: New page: PIE session: EX1 (Apr 24, 2019, 1:10:24 AM)
+[2019.04.24-11.10.24:023][952]LogPlayLevel: Creating play world package: /Game/MapSelectTut/Maps/UEDPIE_0_EX1
+[2019.04.24-11.10.24:037][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013574s)
+[2019.04.24-11.10.24:037][952]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-11.10.24:037][952]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.04.24-11.10.24:037][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapSelectTut/Maps/EX1.EX1 to /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 (0.014374s)
+[2019.04.24-11.10.24:102][952]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.24-11.10.24:121][952]LogInit: FAudioDevice initialized.
+[2019.04.24-11.10.24:133][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-11.10.24:164][952]LogLoad: Game class is 'BP_Example1_C'
+[2019.04.24-11.10.24:166][952]LogWorld: Bringing World /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 up for play (max tick rate 0) at 2019.04.24-06.10.24
+[2019.04.24-11.10.24:166][952]LogWorld: Bringing up level for play took: 0.001130
+[2019.04.24-11.10.24:180][952]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.24-11.10.24:183][952]PIE: Play in editor start time for /Game/MapSelectTut/Maps/UEDPIE_0_EX1 1.048
+[2019.04.24-11.10.24:183][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.10.25:552][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.24-11.10.34:089][116]LogSlate: Window 'MapSelectTut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.24-11.10.34:097][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.10.34:130][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.24-11.10.34:131][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.10.34:184][117]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.24-11.11.33:071][701]BlueprintLog: New page: Compile BPF_Helpers
+[2019.04.24-11.11.33:133][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-11.11.33:146][701]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers9D3ED6C44495AB6DB62800A81E155D3F.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-11.11.33:703][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Core/BPF_Helpers" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset" SILENT=true
+[2019.04.24-11.11.33:715][760]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/BPF_Helpers3817EBDE417C0F2DCEC2FBBC25EF8E61.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Core/BPF_Helpers.uasset'
+[2019.04.24-11.12.42:893][985]BlueprintLog: New page: Compile WBP_MapSelect
+[2019.04.24-11.12.43:284][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.12.43:313][985]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect7EB202B346A2E528B61B049B5D91BB24.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.12.43:637][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapSelectTut/Widgets/WBP_MapSelect" FILE="../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset" SILENT=true
+[2019.04.24-11.12.43:685][997]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/MapSelectTut/Saved/WBP_MapSelect06F0BF9646DB47BC7E7AF1AE07DD3CDF.tmp' to '../../../../../../../GIT/Tutorials/MapSelectTut/Content/MapSelectTut/Widgets/WBP_MapSelect.uasset'
+[2019.04.24-11.12.44:922][125]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.24-11.12.44:946][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.12.44:946][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.24-11.12.44:946][125]PIE: New page: PIE session: EX1 (Apr 24, 2019, 1:12:44 AM)
+[2019.04.24-11.12.44:946][125]LogPlayLevel: Creating play world package: /Game/MapSelectTut/Maps/UEDPIE_0_EX1
+[2019.04.24-11.12.44:960][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013220s)
+[2019.04.24-11.12.44:960][125]LogAIModule: Creating AISystem for world EX1
+[2019.04.24-11.12.44:961][125]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.04.24-11.12.44:961][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapSelectTut/Maps/EX1.EX1 to /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 (0.014091s)
+[2019.04.24-11.12.45:021][125]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.24-11.12.45:039][125]LogInit: FAudioDevice initialized.
+[2019.04.24-11.12.45:048][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-11.12.45:081][125]LogLoad: Game class is 'BP_Example1_C'
+[2019.04.24-11.12.45:084][125]LogWorld: Bringing World /Game/MapSelectTut/Maps/UEDPIE_0_EX1.EX1 up for play (max tick rate 0) at 2019.04.24-06.12.45
+[2019.04.24-11.12.45:084][125]LogWorld: Bringing up level for play took: 0.001923
+[2019.04.24-11.12.45:104][125]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	WBP_MapSelect_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_MapSelect_C_0
+	Function /Game/MapSelectTut/Widgets/WBP_MapSelect.WBP_MapSelect_C:SetMapList:0000
+[2019.04.24-11.12.45:124][125]PIE: Error: Infinite loop detected. Blueprint:  WBP_MapSelect Function:  Set Map List Call Stack:  Show
+[2019.04.24-11.12.45:125][125]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.04.24-11.12.45:128][125]PIE: Play in editor start time for /Game/MapSelectTut/Maps/UEDPIE_0_EX1 -0.007
+[2019.04.24-11.12.45:129][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.12.45:132][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.12.45:132][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.24-11.12.45:156][125]LogSlate: Window 'MapSelectTut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.24-11.12.45:201][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.24-11.12.45:201][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel' has LevelScriptBlueprint '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1' with GeneratedClass '/Game/MapSelectTut/Maps/EX1.EX1_C' with ClassGeneratedBy '/Game/MapSelectTut/Maps/EX1.EX1:PersistentLevel.EX1'
+[2019.04.24-11.12.45:235][125]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.24-11.12.46:920][125]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.685 s
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: 
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: SObjectWidget for 'WBP_MapSelect_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_MapSelect_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: Stack: 
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbddac9033 UE4Editor-UMG.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc0ca2bbe6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbe1bce1a9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbe1bda79f UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc0d5ece10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc0d5afdd7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc0d5af2e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbe0cb2521 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbe06e3002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffbe1002346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ff7c6f86225 UE4Editor.exe!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ff7c6f9596c UE4Editor.exe!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ff7c6f959ea UE4Editor.exe!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ff7c6fa48da UE4Editor.exe!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ff7c6fa659a UE4Editor.exe!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc46c74034 KERNEL32.DLL!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: [Callstack] 0x00007ffc49393691 ntdll.dll!UnknownFunction []
+[2019.04.24-11.12.46:945][125]LogOutputDevice: Error: 
+[2019.04.24-11.12.46:949][125]LogStats:                SubmitErrorReport -  0.000 s
